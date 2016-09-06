@@ -31,7 +31,7 @@
   ],
   "dependencies": {
     "angular-schema-form": ">= 0.7",
-    "angular-signature": "https://github.com/SSATB/angular-signature.git#379254cb846717bfd9fa37928fa46a3af2984133"
+    "angular-signature": "https://github.com/SSATB/angular-signature.git#v0.1.9"
   },
   "devDependencies": {
     "angular-schema-form": ">= 0.7",
